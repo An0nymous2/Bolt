@@ -125,3 +125,5 @@ chat_session = model.start_chat(
 
 MainAppThread = threading.Thread(target=App.CreateAppWindow)
 MainAppThread.start()
+
+root.protocol("WM_DELETE_WINDOW", lambda event: os._exit())
