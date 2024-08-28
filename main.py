@@ -72,7 +72,7 @@ class App:
 
         MessageEntry = ctk.CTkEntry(root, width=595, height=35)
         MessageEntry.place(x=20, y=440)
-        MessageEntry.bind("<Return>", lambda event: StartMessageThread)
+        MessageEntry.bind("<Return>", lambda event: StartMessageThread())
         
         
         SendButton = ctk.CTkButton(root, text=None, image=App.SendImageIcon, width=10, fg_color="#242424", hover_color="#201D1D",
