@@ -10,3 +10,6 @@ Bolt is an AI assistant powered by Gemini which works as a deticated Windows App
 * Intel Core 2 Duo or better
 * 2GB RAM
 * 50MB of free storage
+
+# Note
+* Describe image is not finished yet.
