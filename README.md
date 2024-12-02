@@ -3,7 +3,8 @@
 Bolt is an AI assistant powered by Gemini which works as a deticated Windows Application.
 
 # Preview
-![image](https://github.com/user-attachments/assets/9d1989ee-996e-48c5-9627-85551d4a965d)
+![image](https://github.com/user-attachments/assets/aefff00e-2768-4c19-afa6-a408f0c7ddfb)
+
 
 # System Requirements 
 * Windows 10 or 11
@@ -11,5 +12,3 @@ Bolt is an AI assistant powered by Gemini which works as a deticated Windows App
 * 2GB RAM
 * 50MB of free storage
 
-# Note
-* Describe image is not finished yet.
